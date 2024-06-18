@@ -3,6 +3,7 @@
 
 **_Para que un navegador reconozca una página Web se utiliza la siguiente estructura:_**
 
+```
 <!DOCTYPE html>
 <html>
   <head>
@@ -13,6 +14,7 @@
     <img src="images/firefox-icon.png" alt="Mi imagen de prueba">
   </body>
 </html>
+```
 El Doctype o “Declaración del tipo de documento” es una instrucción especial que va al inicio de nuestro documento HTML y que permite al navegador entender qué versión de HTML estamos utilizando. Esta información determinará la manera en la que el navegador procesará el documento, un DOCTYPE distinto podría implicar hasta una visualización diferente del sitio web dentro del mismo navegador.
 
 <html> (Etiqueta que indica que lo que viene a continuación es un documento HTML)
