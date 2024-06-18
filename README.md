@@ -1,7 +1,7 @@
 # Mains
 **_App para trabajar con JavaScript y en HTML!!!!!!_**
 
-Para que un navegador reconozca una página Web se utiliza la siguiente estructura:
+_Para que un navegador reconozca una página Web se utiliza la siguiente estructura:_
 
 <!DOCTYPE html>
 <html>
