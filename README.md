@@ -25,4 +25,4 @@
 
 - ```<body>``` (Etiqueta de apertura del cuerpo)  Aquí va el contenido de la página que será lo que se presente en pantalla.  
 - ```</body>``` (Etiqueta de cierre del cuerpo)
-- </html>(Etiqueta de cierre del documento)
+- ```</html>```(Etiqueta de cierre del documento)
