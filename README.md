@@ -24,6 +24,6 @@
 
 - ```</head>``` **_(Etiqueta de cierre de la cabecera)_**
 
-- ```<body>``` _(Etiqueta de apertura del cuerpo)_  Aquí va el contenido de la página que será lo que se presente en pantalla.  
+- ```<body>``` **_(Etiqueta de apertura del cuerpo)_**  Aquí va el contenido de la página que será lo que se presente en pantalla.  
 - ```</body>``` (Etiqueta de cierre del cuerpo)
 - ```</html>``` (Etiqueta de cierre del documento)
