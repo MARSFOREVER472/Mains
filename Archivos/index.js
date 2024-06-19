@@ -4,6 +4,7 @@ var miVariable = 26;
 var numeroConstante = 3;
 
 console.log("MI EDAD ACTUAL ES: " + miVariable); // CONCATENANDO VARIABLES CON SENTENCIAS.
+console.log("SU CONSTANTE DE PROPORCIONALIDAD K ES: " + numeroConstante); // IMPRIME EL VALOR DE K COMO UN NÚMERO CONSTANTE.
 
 /*
 var numero1 = 52.5;
