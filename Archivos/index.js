@@ -1,5 +1,11 @@
-console.log("Hello world!!!!!");
+// console.log("Hello world!!!!!");
 
+var miVariable = 26;
+var numeroConstante = 3;
+
+console.log("MI EDAD ACTUAL ES: " + miVariable); // CONCATENANDO VARIABLES CON SENTENCIAS.
+
+/*
 var numero1 = 52.5;
 var sentencia2 = "ESTO ES UN TEXTO";
 var sentencia3 = false;
@@ -33,3 +39,5 @@ console.log(sentencia13);
 console.log(sentencia14);
 console.log(sentencia15);
 console.log(sentencia16);
+
+*/
