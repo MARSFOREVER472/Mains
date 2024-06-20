@@ -2,9 +2,11 @@
 
 var miVariable = 26;
 var numeroConstante = 3;
+var resultado = 6 / 2; // IMPRIME EL RESULTADO.
 
 console.log("MI EDAD ACTUAL ES: " + miVariable); // CONCATENANDO VARIABLES CON SENTENCIAS.
 console.log("SU CONSTANTE DE PROPORCIONALIDAD K ES: " + numeroConstante); // IMPRIME EL VALOR DE K COMO UN NÚMERO CONSTANTE.
+console.log("EL RESULTADO DE LA OPERACIÓN DADA ES: " + resultado); // DA 3 EL RESULTADO DE DICHA OPERACIÓN.
 
 /*
 var numero1 = 52.5;
