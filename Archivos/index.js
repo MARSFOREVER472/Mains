@@ -1,5 +1,6 @@
 // console.log("Hello world!!!!!");
 
+/*
 var miVariable = 26;
 var numeroConstante = 3;
 var resultado = 6 / 2; // IMPRIME EL RESULTADO.
@@ -11,6 +12,21 @@ console.log("SU CONSTANTE DE PROPORCIONALIDAD K ES: " + numeroConstante); // IMP
 console.log("EL RESULTADO DE LA OPERACIÓN DADA ES: " + resultado); // DA 3 EL RESULTADO DE DICHA OPERACIÓN.
 console.log("EL RESULTADO DE LA OPERACIÓN DADA ES: " + resultado2); // IMPRIME UN NÚMERO DECIMAL, EN ESTE CASO, 1.5.
 console.log("EL RESULTADO DE LA OPERACIÓN DADA ES: " + resultado3); // DA 16.
+*/
+
+// ESTO ES UN COMENTARIO...
+
+var miVariable = 26; // SE DECLARA LA VARIABLE CON SU TIPO DE DICHA VARIABLE.
+console.log("MI EDAD ACTUAL ES: " + miVariable); // DESPLIEGA LA EDAD ACTUAL.
+
+miVariable = 13; // MISMA VARIABLE DECLARADA PERO CON DISTINTO VALOR.
+console.log("MI EDAD NORMAL ES: " + miVariable); // DESPLIEGA LA EDAD NORMAL.
+
+const miConstante = 3; // SE INGRESA UN NÚMERO CONSTANTE DINÁMICAMENTE.
+console.log("SU CONSTANTE ACTUAL ES: " + miConstante); // IMPRIME EL VALOR DE LA CONSTANTE.
+
+// miConstante = 4;
+// console.log("SU CONSTANTE K ES: " + miConstante);
 
 /*
 var numero1 = 52.5;
