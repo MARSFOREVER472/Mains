@@ -3,10 +3,14 @@
 var miVariable = 26;
 var numeroConstante = 3;
 var resultado = 6 / 2; // IMPRIME EL RESULTADO.
+var resultado2 = 6 / 4; // IMPRIME EL RESULTADO ARROJANDO UN NÚMERO DECIMAL.
+var resultado3 = 4 * 4; // MULTIPLICACIÓN TODO-TERRENO.
 
 console.log("MI EDAD ACTUAL ES: " + miVariable); // CONCATENANDO VARIABLES CON SENTENCIAS.
 console.log("SU CONSTANTE DE PROPORCIONALIDAD K ES: " + numeroConstante); // IMPRIME EL VALOR DE K COMO UN NÚMERO CONSTANTE.
 console.log("EL RESULTADO DE LA OPERACIÓN DADA ES: " + resultado); // DA 3 EL RESULTADO DE DICHA OPERACIÓN.
+console.log("EL RESULTADO DE LA OPERACIÓN DADA ES: " + resultado2); // IMPRIME UN NÚMERO DECIMAL, EN ESTE CASO, 1.5.
+console.log("EL RESULTADO DE LA OPERACIÓN DADA ES: " + resultado3); // DA 16.
 
 /*
 var numero1 = 52.5;
