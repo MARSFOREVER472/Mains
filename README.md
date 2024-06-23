@@ -19,7 +19,7 @@
 
 - ```<html>``` **_(Etiqueta que indica que lo que viene a continuación es un documento HTML)._**
 
-- ```<head>``` **_(Etiqueta de apertura de la cabecera)_**
+- ```<head>``` **_(Etiqueta de apertura de la cabecera)._**
 - **_Aquí va la información sobre el título de la página, el autor, palabras clave, etc. que no se presentarán en la ventana del navegador, salvo el título que aparecera en la barra de título de la parte superior._**
 
 - ```</head>``` **_(Etiqueta de cierre de la cabecera)_**
