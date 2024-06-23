@@ -15,7 +15,7 @@
   </body>
 </html>
 ```
-- **_El Doctype o “Declaración del Tipo de documento” es una instrucción especial que va al inicio de nuestro documento HTML y que permite al navegador entender qué versión de HTML estamos utilizando. Esta información determinará la manera en la que el navegador procesará el documento, un DOCTYPE distinto podría implicar hasta una visualización diferente del sitio web dentro del mismo navegador._**
+- **_El Doctype o “Declaración del Tipo de Documento” es una instrucción especial que va al inicio de nuestro documento HTML y que permite al navegador entender qué versión de HTML estamos utilizando. Esta información determinará la manera en la que el navegador procesará el documento, un DOCTYPE distinto podría implicar hasta una visualización diferente del sitio web dentro del mismo navegador._**
 
 - ```<html>``` **_(Etiqueta que indica que lo que viene a continuación es un documento HTML)._**
 
