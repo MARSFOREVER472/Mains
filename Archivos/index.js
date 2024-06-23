@@ -25,6 +25,11 @@ console.log("MI EDAD NORMAL ES: " + miVariable); // DESPLIEGA LA EDAD NORMAL.
 const miConstante = 3; // SE INGRESA UN NÚMERO CONSTANTE DINÁMICAMENTE.
 console.log("SU CONSTANTE ACTUAL ES: " + miConstante); // IMPRIME EL VALOR DE LA CONSTANTE.
 
+var digito1 = 2;
+var digito2 = 2;
+var resultadoFinal = digito1 + digito2;
+console.log("EL RESULTADO FINAL DA: " + resultadoFinal);
+
 // miConstante = 4;
 // console.log("SU CONSTANTE K ES: " + miConstante);
 
