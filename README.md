@@ -22,7 +22,7 @@
 - ```<head>``` **_(Etiqueta de apertura de la cabecera)._**
 - **_Aquí va la información sobre el título de la página, el autor, palabras clave, etc. que no se presentarán en la ventana del navegador, salvo el título que aparecera en la barra de título de la parte superior._**
 
-- ```</head>``` **_(Etiqueta de cierre de la cabecera)_**
+- ```</head>``` **_(Etiqueta de cierre de la cabecera)._**
 
 - ```<body>``` **_(Etiqueta de apertura del cuerpo)_**
 - **_Aquí va el contenido de la página que será lo que se presente en pantalla._**  
