@@ -27,4 +27,4 @@
   - ```<body>``` **_(Etiqueta de apertura del cuerpo)._**
 - **_Aquí va el contenido de la página que será lo que se presente en pantalla._**  
   - ```</body>``` **_(Etiqueta de cierre del cuerpo)._**
- - ```</html>``` **_(Etiqueta de cierre del documento)._**
+  - ```</html>``` **_(Etiqueta de cierre del documento)._**
